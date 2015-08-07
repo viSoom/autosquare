@@ -19,5 +19,4 @@ Inside this folder you can find 2 files:
 2) easy- Is a folder with simple files and code ready to be copied and pasted inside your website.
 
 # Credits
-I don't think a color can be under copyright,
-but i want to thanks https://flatuicolors.com/ for let me know these awesome colors.
+I want to thanks https://flatuicolors.com/ for let me know these awesome colors.
