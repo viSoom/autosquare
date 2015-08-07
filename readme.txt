@@ -2,8 +2,9 @@ Hi my name is Eduardo Allegrini and I have developed this script to create somet
 
 I want to thank you for trust me downloading this tool.
 
-If you like this script support me following in some network, thank you!
+http://free.epeo.it/autosquare/
 
+If you like this script support me following in some network, thank you!
 
 http://eduardoallegrini.com <-(you can find an updated list of my networks here)
 
