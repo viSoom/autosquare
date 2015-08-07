@@ -8,7 +8,7 @@ AutoSquare is a simple jQuery script that allow you to use automatic heights and
 Hi my name is Eduardo Allegrini and I have developed this script to create something useful for every website. 
 I want to thank you for trust me downloading this tool. 
 
-If you like this script support me following in some network, thank you!
+If you like this script support me following in some network (like GitHub), thank you!
 http://eduardoallegrini.com (you can find an updated list of my networks here)
 
 # Content
