@@ -2,7 +2,7 @@
 AutoSquare is a simple jQuery script that allow you to use automatic heights and transform your website with harmony and accuracy on the details
 
 # Versions
-1.0 - First Release - Download
+1.0 - First Release - <a href="https://github.com/eduardoallegrini/autosquare/archive/master.zip">Download</a>
 
 # Introduction
 Hi my name is Eduardo Allegrini and I have developed this script to create something useful for every website. 
