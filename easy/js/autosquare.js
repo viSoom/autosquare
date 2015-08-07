@@ -1,8 +1,8 @@
 /*************************
-jQuery AutoSquare v.1.0
-@Website: http://http://www.eduardoallegrini.com/autosquare/
-@Author: Eduardo Allegrini
-@Copyright: 22/06/2015
+jQuery AutoSquare v.1.0 
+@Website: AutoSquare - http://free.epeo.it/autosquare
+@Author: Eduardo Allegrini - http://www.eduardoallegrini.com/
+@Copyright: 07/08/2015
 ************************/
 $.fn.autoSquare = function() {
 	var thisElement = this;
